@@ -4,7 +4,7 @@
         <title>Stargazer</title>
         <link>https://miueon.github.io/</link>
         <description>Currently focus on Backend dev, Java/kotlin, spring boot, a bit of js/ts</description>
-        <lastBuildDate>Sat, 23 Jan 2021 09:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 09:14:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -63,6 +63,16 @@ Why ...]]></description>
             <description><![CDATA[VuePress implements a content distribution API for Markdown. With this feature, you can split your document into multiple fragments to facilitate flexible composition in the layout component.
 
 ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The test page of my blog]]></title>
+            <link>https://miueon.github.io/2021/01/23/test/</link>
+            <guid>https://miueon.github.io/2021/01/23/test/</guid>
+            <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[asdckasndckjznscvn;ajdv
+
+123
+ ...]]></description>
         </item>
     </channel>
 </rss>
